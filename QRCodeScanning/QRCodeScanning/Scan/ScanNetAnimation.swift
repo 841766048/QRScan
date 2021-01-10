@@ -2,7 +2,6 @@
 //  ScanNetAnimation.swift
 //  GridOperation
 //
-//  Created by 张海彬 on 2021/1/6.
 //
 
 import UIKit
