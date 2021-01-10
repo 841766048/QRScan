@@ -2,7 +2,6 @@
 //  TestScanViewController.swift
 //  QRCodeScanning
 //
-//  Created by 张海彬 on 2021/1/10.
 //
 
 import UIKit
